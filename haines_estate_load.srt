@@ -35,7 +35,7 @@ agora espere white eles tem meu nome, nada mais.
 agora volte, me amostre a ultima parte o diagrama. 
 
 10
-00:00:36:433 --> 00:00:37,298
+00:00:36,433 --> 00:00:37,298
 eu vou entrar.
 
 11
