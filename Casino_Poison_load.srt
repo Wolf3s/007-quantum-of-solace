@@ -1,5 +1,5 @@
 1
-00:00:07,420 --> 00:00:08;200
+00:00:07,420 --> 00:00:08,200
 esse é o obanno.
 
 2
@@ -19,7 +19,7 @@ e le chifre?
 de volta na mesa mas ele está fora de seu jogo.
 
 6
-00:00:15,843 --> 00:00;18,324
+00:00:15,843 --> 00:00:18,324
 eu acho que bond consegue derrota-lo ele está nas suas últimas jogadas.
 
 7
