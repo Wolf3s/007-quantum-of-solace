@@ -15,7 +15,7 @@ perdeu quem?
 Mollaka nosso fazedor de bombas, bond havia sido enviado.
 
 5
-00:00:15:834 --> 00:00:17,386 
+00:00:15,834 --> 00:00:17,386 
 sim eu sei, aonde está bond agora? 
 
 6
