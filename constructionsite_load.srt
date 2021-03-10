@@ -15,8 +15,8 @@ perdeu quem?
 Mollaka nosso fazedor de bombas, bond havia sido enviado.
 
 5
-00:00:15,834 --> 00:00:17,386 
-sim eu sei, aonde está bond agora? 
+00:00:15,834 --> 00:00:17,386
+sim eu sei, aonde está bond agora?
 
 6
 00:00:17,903 --> 00:00:20,704
@@ -28,13 +28,13 @@ então isso não acabou.
 
 8
 00:00:23,293 --> 00:00:26,675
-eu realinarei o satélite e alertartei o pessoal sobre o curso
+eu realinarei o satélite e alertar-rei o pessoal sobre o curso
 
 9
 00:00:27,530 --> 00:00:29,060
 entendindo estou indo até bond.
 
-
 10
 00:00:29,488 --> 00:00:31,497
 fique ligado, nós queremos o fazedor de bombas.
+

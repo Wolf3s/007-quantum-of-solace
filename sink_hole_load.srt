@@ -40,10 +40,7 @@ no qual faz ele ser um dos homens mais poderosos britânicos.
 
 10
 00:00:30,540 --> 00:00:31,319
-você tem que vir 
-
-11
-
+você tem que vir
 
 11
 00:00:32,563 --> 00:00:37,029
@@ -79,7 +76,7 @@ general medrano, bond está no sul.
 
 19
 00:00:56,695 --> 00:00:57,548
-ele consegue sobreviver? 
+ele consegue sobreviver?
 
 20
 00:00:58,215 --> 00:01:00,278
@@ -91,10 +88,10 @@ ali eles pularam.
 
 22
 00:01:03,762 --> 00:01:05,073
-eles estão caindo, estão caindo rápido.
+estão caindo rápido.
 
 23
-00:01:05,929 --> 00:01:07,334
+00:01:05,929 --> 00:01:09,101
 eles justamente estão se juntando no meio ao ar, mas muitos deles estão atirando entre eles.
 
 24
@@ -115,4 +112,5 @@ paraquedas foi ativado eles reduziram.
 
 28
 00:01:21,965 --> 00:01:24,091
-agora temos que encontra-lo sntes do medrano.
+agora temos que encontra-lo antes do medrano.
+

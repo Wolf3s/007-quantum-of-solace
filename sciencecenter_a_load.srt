@@ -1,13 +1,14 @@
 1
 00:00:00,000 --> 00:00:04,000
-Senhora, 007 havia entrado em naemesis em madagascar
+Senhora, 007 havia entrado
+em naemesis em madagascar
 
 2
 00:00:04,482 --> 00:00:05,330
 007
 
 3
-00:00:05,769 --> 00:00:06,238 
+00:00:05,769 --> 00:00:06,238
 bond.
 
 4
@@ -15,15 +16,15 @@ bond.
 o único que havia promovido.
 
 5
-00:00:08,450  --> 00:00:09,681
+00:00:08,450 --> 00:00:09,681
 no solo principal.
 
 6
-00:00:09,920 --> 00:00:11,835 
+00:00:09,920 --> 00:00:11,835
 o alvo de bond talvez esta esgueirando se na cidade
 
 7
-00:00:11,907 --> 00:00:14,840 
+00:00:11,907 --> 00:00:14,840
 é bond está violando uma das reg..
 
 8
@@ -76,8 +77,9 @@ ele foi contratado por alex dimitrios.
 
 20
 00:00:56,376 --> 00:00:58,364
-dimitrios o quen ele tem a ver 
+dimitrios o quen ele tem a ver
 
 21
 00:00:59,410 --> 00:01:02,265
 é isso que vou tentar descobrir, eu estou seguindo ele no centro científico
+

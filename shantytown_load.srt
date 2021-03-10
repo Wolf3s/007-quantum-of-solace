@@ -11,7 +11,7 @@ quando eu era criança o genereal medrano veio em nossa casa, ele atirou no meu 
 parece que nós estamos usando greene para chegar em alguém.
 
 4
-00:00:13,125 --> 00:00:14,445 
+00:00:13,125 --> 00:00:14,445
 e você também perdeu alguém.
 
 5
@@ -20,18 +20,18 @@ sim, perdi.
 
 6
 00:00:25,787 --> 00:00:30,185
-parece o nosso cara, cicatrizes no seu rosto. acho que nós encontramos o nosso fazedor de bombas. 
+parece o nosso cara, cicatrizes no seu rosto. acho que nós encontramos o nosso fazedor de bombas.
 
 7
-00:00:30,524 --> 00:00:31,886
+00:00:30,411 --> 00:00:31,886
 pare de tocar no ouvido.
 
-8 
+8
 00:00:32,233 --> 00:00:32,705
-desculpe.
+desculpe?
 
-9 
-00:00:33,535 --> 00:00:34,001
+9
+00:00:33,368 --> 00:00:34,001
 tire as maõs daí
 
 10
@@ -41,3 +41,4 @@ ele me viu ele está em moviemento
 11
 00:00:35,684 --> 00:00:38,131
 guarde a porcaria da arma carter, preciso dele vivo
+
