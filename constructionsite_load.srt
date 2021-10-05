@@ -4,7 +4,8 @@ aqui é londres.
 
 2
 00:00:09,365 --> 00:00:11,749
-aqui é carter estou aqui com bond, acho que perdemos ele.
+aqui é carter estou aqui com
+bond, acho que perdemos ele.
 
 3
 00:00:12,283 --> 00:00:12,952
@@ -12,7 +13,8 @@ perdeu quem?
 
 4
 00:00:13,770 --> 00:00:15,832
-Mollaka nosso fazedor de bombas, bond havia sido enviado.
+Mollaka nosso fazedor de
+bombas, bond havia sido enviado.
 
 5
 00:00:15,834 --> 00:00:17,386
@@ -20,7 +22,8 @@ sim eu sei, aonde está bond agora?
 
 6
 00:00:17,903 --> 00:00:20,704
-mollaka ficou fora da visão minha e bond foi atrás dele.
+mollaka ficou fora da visão
+minha e bond foi atrás dele.
 
 7
 00:00:21,430 --> 00:00:22,165
@@ -28,7 +31,8 @@ então isso não acabou.
 
 8
 00:00:23,293 --> 00:00:26,675
-eu realinarei o satélite e alertar-rei o pessoal sobre o curso
+eu realinarei o satélite e
+alertar-rei o pessoal sobre o curso
 
 9
 00:00:27,530 --> 00:00:29,060
@@ -36,5 +40,6 @@ entendindo estou indo até bond.
 
 10
 00:00:29,488 --> 00:00:31,497
-fique ligado, nós queremos o fazedor de bombas.
+fique ligado, nós queremos
+o fazedor de bombas.
 

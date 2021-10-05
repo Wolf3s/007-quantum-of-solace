@@ -3,25 +3,30 @@
 merda
 
 2
-00:00:08,448 --> 00:00:13,475
+00:00:08,448 --> 00:00:12,206
 Aqui é slepper one ele conseguiu passar
-e eu estou a pé esperando um suporte 
-equipe delta reporte.
+e eu estou a pé esperando um suporte
 
 3
-00:00:14,030 --> 00:00:17,729
-aqui é equipe delta sleeper, estou de olho em você agora 
-estamos em posição câmbio
+00:00:12,230 --> 00:00:13,475
+equipe delta reporte.
 
 4
+00:00:14,030 --> 00:00:17,729
+aqui é equipe delta sleeper, estou de olho
+em você agora estamos em posição câmbio
+
+5
 00:00:18,163 --> 00:00:21,385
 me de cobertura delta bond consegiu passar
 eu espero ele morto
 
-5
+6
 00:00:21,733 --> 00:00:22,471
 entendido câmbio
 
-6
+7
 00:00:22,599 --> 00:00:26,567
-sleeper e o esqudrão fox. evacuação sescundária confirmada
+sleeper e o esqudrão fox.
+evacuação sescundária confirmada
+

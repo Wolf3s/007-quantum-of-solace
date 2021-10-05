@@ -1,4 +1,5 @@
 1
 00:00:28,480 --> 00:00:30,670
-eu acho que deviamos ir a um lugar um pouco mais quieto...
+eu acho que deviamos ir a um
+lugar um pouco mais quieto...
 
