@@ -65,7 +65,8 @@ Você verá, Você verá
 
 17
 00:02:27,231 --> 00:02:31,871
-Queime-o no chão, destrua, não faça baralho, nenhum elemento ao redor
+Queime-o no chão, destrua, não
+faça baralho, nenhum elemento ao redor
 
 18
 00:02:32,132 --> 00:02:36,484
@@ -73,16 +74,20 @@ Eu preciso levantar de novo
 
 19
 00:02:36,737 --> 00:02:43,138
-Se ninguém pode te machucar, então ninguém pode te amar
+Se ninguém pode te machucar,
+então ninguém pode te amar
 
 20
-00:02:43,602 --> 00:02:49,872
-Se ninguém pode te quebrar, então ninguém pode te amar
+00:02:43,584 --> 00:02:49,872
+Se ninguém pode te quebrar,
+então ninguém pode te amar
 
 21
-00:02:50,221 --> 00:02:56,794 
-Se ninguém pode te mudar, então ninguém pode te salvar
+00:02:50,221 --> 00:02:56,794
+Se ninguém pode te mudar,
+então ninguém pode te salvar
 
 22
 00:02:56,979 --> 00:03:03,486
 Se ninguém te ama, eu amarei
+
